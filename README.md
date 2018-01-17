@@ -9,7 +9,7 @@
 
 > .\pmvs2.exe F:\shouji_test\dense.nvm.cmvs\00\ option-0000 PATCH PSET
 
-![](.\output_image.PNG)
+![](https://github.com/wsAndy/CMVS-PMVS/output_image.png)
 
 In `pmvs2.cc`, we find
 ```cpp
